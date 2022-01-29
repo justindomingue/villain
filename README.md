@@ -1,4 +1,16 @@
-# Neovim from scratch
+# Villain
+
+```
+   ,    ,    /\   /\
+  /( /\ )\  _\ \_/ /_
+  |\_||_/| < \_   _/ >
+  \______/  \|0   0|/
+    _\/_   _(_  ^  _)_
+   ( () ) /`\|V"""V|/`\
+     {}   \  \_____/  /
+     ()   /\   )=(   /\
+     {}  /  \_/\=/\_/  \
+```
 
 Each video will be associated with a branch so checkout the one you are interested in, you can follow along with this [playlist](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ).
 
